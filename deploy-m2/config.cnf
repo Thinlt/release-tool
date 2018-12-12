@@ -1,0 +1,3 @@
+modules=( WebPOS-Magento2-New OS-Inventorysuccess-M2 BarcodeSuccess-M2 PurchaseOrderSuccess-M2 m2epro-integration Giftcard-Magento2 Rewardpoints-Standard-Magento2 Storecredit-Magento2 Storepickup-Magento2 FulfilSuccess-M2 DropshipSuccess-M2 )
+modules_2=( SupplierSuccess OrderSuccess FulfilReport-M2 )
+requires=( m2epro/magento2-extension authorizenet/authorizenet stripe/stripe-php )

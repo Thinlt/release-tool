@@ -1,0 +1,17 @@
+Name,Repo,Prev Version,Version,Release Notes,Magento Version
+growth,growth-m1,1.2.1.5,1.2.1.6,,ce-1.9.x-ee-1.14.x 
+starter,starter-m1,1.2.1.5,1.2.1.6,,ce-1.9.x-ee-1.14.x 
+barcode,BarcodeSuccess-M1 ,1.1.0,1.1.0,,ce-1.9.x-ee-1.14.x
+giftcard,Giftcard-Magento1,4.8.1.1,4.8.1.1,,ce-1.9.x-ee-1.14.x
+inventory-management,InventorySuccess-M1 ,2.1.4.2,2.1.4.2,,ce-1.9.x-ee-1.14.x
+purchase-order,PurchaseOrderSuccess-M1 ,1.2.0.2,1.2.0.2,,ce-1.9.x-ee-1.14.x
+inventory-report,ReportSuccess-M1 ,1.0.0.1,1.0.0.1,,ce-1.9.x-ee-1.14.x
+rewardpoints api,Rewardpoints-Api-Magento1 ,0.1.0,0.1.0,,ce-1.9.x-ee-1.14.x
+rewardpoints loyaltylevel,Rewardpoints-Loyaltylevel-Magento1 ,0.2.5,0.2.5,,ce-1.9.x-ee-1.14.x
+rewardpoints rules,Rewardpoints-Rule-Magento1 ,0.2.5,0.2.5,,ce-1.9.x-ee-1.14.x
+rewardpoints standard,Rewardpoints-Standard-Magento1 ,2.5.2.1,2.5.2.1,,ce-1.9.x-ee-1.14.x
+store-credit,Storecredit-Magento1 ,0.2.0,0.2.0,,ce-1.9.x-ee-1.14.x
+store-pickup,Storepickup-Magento1 ,4.6.0.1,4.6.0.1,,ce-1.9.x-ee-1.14.x
+webpos,Webpos-M1-Rebuild ,3.2.8.4,3.2.8.5,,ce-1.9.x-ee-1.14.x 
+,CoreSuccess-M1 ,1.0.0,1.0.0,,ce-1.9.x-ee-1.14.x
+,omc-starter-m1,master,master,,ce-1.9.x-ee-1.14.x

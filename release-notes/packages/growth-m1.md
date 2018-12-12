@@ -1,0 +1,13 @@
+Webpos-M1-Rebuild
+InventorySuccess-M1
+CoreSuccess-M1
+BarcodeSuccess-M1
+PurchaseOrderSuccess-M1
+ReportSuccess-M1
+Giftcard-Magento1
+Rewardpoints-Standard-Magento1
+Rewardpoints-Rule-Magento1
+Rewardpoints-Loyaltylevel-Magento1
+Rewardpoints-Api-Magento1
+Storecredit-Magento1
+Storepickup-Magento1

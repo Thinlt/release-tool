@@ -1,0 +1,6 @@
+pwapos-omc-2.0-aus uat/zippay
+authorizenet/authorizenet required
+symfony/yaml:dev-issue-8145 required
+stripe/stripe-php required
+paypal/rest-api-sdk-php required
+paypal/merchant-sdk-php required

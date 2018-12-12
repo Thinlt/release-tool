@@ -1,0 +1,16 @@
+WebPOS-Magento2-New 2.4.1.5
+OS-Inventorysuccess-M2 1.6.1.2
+BarcodeSuccess-M2 1.3.1.1
+PurchaseOrderSuccess-M2 1.3.0.2
+Giftcard-Magento2 2.2.0.2
+Rewardpoints-Standard-Magento2 1.2.0.2
+Storecredit-Magento2 2.2.0.1
+Storepickup-Magento2 1.2.1.1
+FulfilSuccess-M2 1.2.0.2
+DropshipSuccess-M2 1.1.1
+ReportSuccess-M2 1.0.0.1
+magestore/ordersuccess-magento2:1.1.1.2 required
+magestore/fulfilreport-magento2:1.0.0.1 required
+magestore/suppliersuccess-magento2:1.1.0.2 required
+authorizenet/authorizenet 	required
+stripe/stripe-php 		required

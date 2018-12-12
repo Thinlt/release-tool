@@ -1,0 +1,20 @@
+Name,Repo,Prev Version,Version,Release Notes,Magento Version
+pwapos,pwapos-omc-2.0,master,release/sprint2,,ce-2.1.x-ee-2.2.x
+growth-plus,growth-plus-m2,master,master,,ce-2.1.x-ee-2.2.x
+growth,growth-m2,master,master,,ce-2.1.x-ee-2.2.x
+starter,starter-m2,master,master,,ce-2.1.x-ee-2.2.x
+barcode,BarcodeSuccess-M2,master,master,,ce-2.1.x-ee-2.2.x
+dropship,DropshipSuccess-M2 ,master,master,,ce-2.1.x-ee-2.2.x
+order fulfillment,FulfilSuccess-M2 ,master,master,,ce-2.1.x-ee-2.2.x
+giftcard,Giftcard-Magento2,master,master,,ce-2.1.x-ee-2.2.x
+inventory-management,OS-Inventorysuccess-M2,master,master,,ce-2.1.x-ee-2.2.x
+purchase-order,PurchaseOrderSuccess-M2 ,master,master,,ce-2.1.x-ee-2.2.x
+inventory-report,ReportSuccess-M2 ,master,master,,ce-2.1.x-ee-2.2.x
+rewardpoints standard,Rewardpoints-Standard-Magento2 ,master,master,,ce-2.1.x-ee-2.2.x
+storecredit,Storecredit-Magento2,master,master,,ce-2.1.x-ee-2.2.x
+storepickup,Storepickup-Magento2 ,master,master,,ce-2.1.x-ee-2.2.x
+,OrderSuccess ,master,master,,ce-2.1.x-ee-2.2.x
+,FulfilReport-M2 ,master,master,,ce-2.1.x-ee-2.2.x
+,SupplierSuccess,master,master,,ce-2.1.x-ee-2.2.x
+,omc-2.0,master,master,,ce-2.1.x-ee-2.2.x
+,omc-starter,master,master,,ce-2.1.x-ee-2.2.x

@@ -1,0 +1,9 @@
+omc-starter master
+WebPOS-Magento2-New 2.4.1.9
+OS-Inventorysuccess-M2 1.6.1.5
+
+authorizenet/authorizenet required
+symfony/yaml:dev-issue-8145 required
+stripe/stripe-php required
+paypal/rest-api-sdk-php required
+paypal/merchant-sdk-php required

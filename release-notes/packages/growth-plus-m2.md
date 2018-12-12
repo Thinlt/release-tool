@@ -1,0 +1,14 @@
+- pwapos-omc-2.0
+- OS-Inventorysuccess-M2
+- BarcodeSuccess-M2
+- PurchaseOrderSuccess-M2
+- Giftcard-Magento2
+- Rewardpoints-Standard-Magento2
+- Storecredit-Magento2
+- Storepickup-Magento2
+- FulfilSuccess-M2
+- DropshipSuccess-M2
+- ReportSuccess-M2
+- OrderSuccess
+- FulfilReport-M2
+- SupplierSuccess

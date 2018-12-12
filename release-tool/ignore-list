@@ -1,0 +1,6 @@
+.idea
+.git
+.gitignore
+.travis.yml
+Jenkinsfile
+README.md
